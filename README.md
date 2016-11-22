@@ -1,5 +1,7 @@
 # pyvanas - 一个期货数据分析工具
 
+![求star](http://i1.piimg.com/4851/ba6f5634e2eefec2.jpg)
+
 ## Todo：
 目前只有CTP的，以后添加外盘，
 ## 依赖
